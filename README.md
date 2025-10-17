@@ -1,4 +1,4 @@
-# fastapi-rabbitmq-streaming
+# fastapi-rabbitmq-service-to-service-communication
 
 Lightweight example demonstrating a FastAPI-based producer and consumer communicating via RabbitMQ. The project is containerized with Docker Compose and includes robustness improvements so services can start when RabbitMQ is starting.
 
